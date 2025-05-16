@@ -1,206 +1,173 @@
-Absolutely, SPYDER — here's the **merged & upgraded roadmap** that brings **Python** into full focus **from basics to advanced**, while keeping the whole stack of **Power BI + Excel** intact. Whether you’re coming from a non-tech background or you're already tech-savvy, this version gives you the **complete data analyst roadmap**—**zero to job-ready**, tools + theory + projects.
+# 🚀 Data Analyst Roadmap: From Zero to Job-Ready (2025 Edition)
+
+**Complete Learning Path for Python, Power BI & Advanced Excel**
+
+*(Includes all levels: Foundations → Intermediate → Advanced)*
+*For beginners to career switchers* | Covers: *Excel, Power BI, SQL, Python, Projects, and Job Prep*
+
+
+### 🎥 Recommended Video Resource
+
+[![Data Analyst Roadmap Video](https://img.youtube.com/vi/VaSjiJMrq24/0.jpg)](https://www.youtube.com/watch?v=VaSjiJMrq24)
+---
+
+## 🔰 PHASE 0: Prerequisites (Optional for Tech Folks)
+
+- **Computer Basics**: OS, folders, shortcuts, installations  
+- **Math Refresher**: Averages, ratios, percentages  
+- **Basic Stats**: Mean, median, mode, std dev, probability  
 
 ---
 
-# 🧩 Full-Scope Roadmap: Data Analytics with Python, Power BI & Advanced Excel
+## 💻 PHASE 1: Core Tools Mastery (Excel → Power BI → Python)
 
-**For Tech & Non-Tech Backgrounds**
-*(Now includes a deeper Python journey!)*
+### 📊 Excel for Data Analysis
 
----
-
-## 🌍 PHASE 0: Prerequisites (Non-Tech Folks Only — Optional for Techies)
-
-### 🧠 Build These First:
-
-* **Computer Basics**: File structures, installations, shortcuts
-* **Basic Math & Stats**: Averages, ratios, percentages
-* **Intro to Probability & Stats**: Mean, median, variance, std dev
-
----
-
-## 🚀 PHASE 1: Core Tools Mastery (Foundations → Intermediate)
-
-### 🔧 Advanced Excel Roadmap
-
-**Level 1 – Foundations**
-
-* Cell references (absolute/relative)
-* Formulas: `SUM`, `IF`, `VLOOKUP`, `HLOOKUP`, `INDEX`, `MATCH`
-* Conditional formatting & cleaning
+**Level 1 – Basics**
+- Formulas: `SUM`, `IF`, `VLOOKUP`, `INDEX`, `MATCH`
+- Conditional formatting, filtering, sorting
 
 **Level 2 – Intermediate**
+- Pivot Tables, Charts, Date & Text functions
+- `XLOOKUP`, Data Validation, Named Ranges
 
-* Pivot Tables, Charts, Named Ranges
-* Date/time functions, Text functions
-* Lookup combos: `INDEX + MATCH`, `XLOOKUP`
-
-**Level 3 – Pro Excel for Analytics**
-
-* Power Query (ETL without code)
-* Power Pivot & Data Model
-* DAX (Data Analysis Expressions)
-* Dashboards: slicers, timelines
-* Solver, Scenario Manager, What-if Analysis
-* Basic Macros (VBA optional)
+**Level 3 – Analyst Level**
+- Power Query (ETL with no-code)
+- DAX & Power Pivot
+- Dashboards with slicers & timelines
+- Solver, What-if, Scenario Manager  
+- 🧠 Bonus: Basic Macros
 
 ---
 
-### 🐍 Python for Data Analysis Roadmap (Merged Deep-Dive)
+### 🐍 Python for Data Analysis
 
-**Level 1 – Python Basics**
+**Level 1 – Core Python**
+- Data types, conditionals, loops, functions
+- File I/O: CSV, Excel
+- Error handling, environment setup (Jupyter/VS Code)
 
-* Install Python + Jupyter/VS Code
-* Data types: strings, lists, dicts, tuples, sets
-* Loops, conditionals, functions
-* File I/O: CSV, Excel
-* Basic error handling
+**Level 2 – Data Analysis**
+- `pandas`, `numpy` for EDA
+- Handling missing data, duplicates, type conversions
+- Merging, grouping, pivoting data
+- Visuals: `matplotlib`, `seaborn`, `plotly`
 
-**Level 2 – Core Data Analysis with Python**
-
-* `NumPy`: arrays, math ops, slicing
-* `Pandas`:
-
-  * Load data: CSV, Excel, JSON
-  * Cleaning: missing values, types, duplicates
-  * EDA: describe, groupby, pivot
-  * Joining & merging datasets
-* `Matplotlib` + `Seaborn`: bar, line, hist, box, scatter, heatmaps
-
-**Level 3 – Advanced Analytics in Python**
-
-* Web Scraping: `requests`, `BeautifulSoup`, optional `Selenium`
-* Working with APIs: pull & parse JSON
-* Time series basics: datetime, resample, rolling windows
-* `statsmodels` or `Prophet` for forecasting
-* Automate reports to Excel using `openpyxl` or `xlsxwriter`
-* Handling large datasets: `Dask`, `Modin`
-* Optional: Intro to ML with `scikit-learn` (regression/classification)
+**Level 3 – Advanced Python**
+- Web scraping: `requests`, `BeautifulSoup`, `Selenium`
+- APIs: JSON data handling
+- Time series: `datetime`, `resample`, `rolling`
+- Automation: `openpyxl`, `xlsxwriter`
+- Forecasting: `statsmodels`, `Prophet`
+- Large data: `Dask`, `Modin`
+- 🧠 ML optional: `scikit-learn` basics
 
 ---
 
-### 📊 Power BI Roadmap
+### 📈 Power BI (Desktop + Service)
 
 **Level 1 – Beginner**
-
-* Power BI Desktop vs Service
-* Load data (Excel, CSV, SQL)
-* Power Query for cleaning
-* Create visuals: bar, line, pie, KPIs
+- Load data (Excel, CSV)
+- Power Query cleaning
+- Simple visuals & filters
 
 **Level 2 – Intermediate**
+- Data Modeling & Relationships
+- DAX basics: `CALCULATE`, `FILTER`, `IF`, `SUMX`
+- Time Intelligence: `DATESYTD`, `SAMEPERIODLASTYEAR`
 
-* Data modeling: star schema, relationships
-* DAX basics: `CALCULATE`, `FILTER`, `ALL`, `IF`, `SUMX`
-* Time intelligence: `SAMEPERIODLASTYEAR`, `DATESYTD`
-
-**Level 3 – Advanced BI**
-
-* Drillthroughs, tooltips
-* Bookmarks, page navigation, buttons
-* Row-Level Security (RLS)
-* Publish reports to Power BI Service
-* Data refreshes, gateways, workspace setup
+**Level 3 – Pro Level**
+- Advanced visuals, bookmarks, buttons
+- Row-Level Security (RLS)
+- Publishing reports & setting refresh in Power BI Service
 
 ---
 
-## 🧠 PHASE 2: Analytics Knowledge (Tool-Agnostic Mindset)
+## 🧠 PHASE 2: Core Analytics Concepts
 
-These apply across Excel, Python & Power BI:
+> These apply across Excel, Power BI, Python & SQL
 
-* Exploratory Data Analysis (EDA)
-* Descriptive vs Inferential Statistics
-* Outliers, distributions, skewness
-* Correlation vs Causation
-* Hypothesis Testing, A/B Testing
-* Data Wrangling, Cleaning
-* Feature engineering basics
-* Scaling, normalization, standardization
-* Missing value handling: drop, fill, impute
-
----
-
-## 🧰 PHASE 3: Portfolio Projects & Real Case Work
-
-> Time to show off what you learned with 🔥 real-world stuff.
-
-### 🧪 Use Datasets From:
-
-* [Kaggle](https://www.kaggle.com)
-* [Google Dataset Search](https://datasetsearch.research.google.com)
-* [UCI ML Repository](https://archive.ics.uci.edu)
-
-### 💼 Project Ideas:
-
-| Project                             | Tools                           |
-| ----------------------------------- | ------------------------------- |
-| Sales Dashboard                     | Excel + Power BI                |
-| Netflix Dataset EDA                 | Python (Pandas, Seaborn)        |
-| Web-Scraped News Headlines Analysis | Python (BeautifulSoup + Pandas) |
-| COVID Time-Series Forecast          | Python (Prophet)                |
-| Customer Segmentation               | Python (Clustering or KMeans)   |
-| Excel Automation Report             | Python + openpyxl               |
-| Dynamic BI Dashboard                | Power BI with DAX measures      |
+- Exploratory Data Analysis (EDA)
+- Distributions, outliers, skewness
+- Correlation vs Causation
+- Hypothesis Testing (t-test, chi-square, ANOVA)
+- Regression (linear/logistic)
+- A/B Testing
+- Data Cleaning & Wrangling
+- Scaling, normalization, encoding
+- Feature engineering basics
 
 ---
 
-## 📜 PHASE 4: Career Prep – Getting Hired
+## 🧮 PHASE 3: SQL & Databases
 
-### 📝 Resume + LinkedIn:
+### Core SQL
+- `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`
+- Joins: INNER, LEFT, RIGHT, FULL
+- Aggregations & filtering
+- `CASE`, `COALESCE`
 
-* List all tools, projects, GitHub
-* Mention business impacts or insights found
-* Make a clean, data-driven resume
+### Advanced SQL
+- Subqueries & Nested queries
+- CTEs (Common Table Expressions)
+- Window functions: `ROW_NUMBER()`, `RANK()`, `LEAD()`
 
-### 📂 GitHub Portfolio:
-
-* Host Jupyter Notebooks (with charts)
-* Add README files that explain each project
-* Create folders for Excel, Power BI reports
-
-### 🔁 Practice:
-
-* SQL on: StrataScratch, LeetCode (SQL), Mode Analytics
-* Excel on: ExcelJet, Spreadsheeto, InterviewBit
-* Mock Interviews: Use Glassdoor to prep for scenario Qs
+### Database Knowledge
+- Relational vs Non-relational DBs
+- Normalization (1NF, 2NF, 3NF)
+- ER Diagrams & Schemas
 
 ---
 
-## 🛠 BONUS PHASE: Power-User Add-ons
+## 📁 PHASE 4: Portfolio Projects
 
-*Not mandatory, but levels you up faster:*
+> Time to show what you can do. Build, host, explain.
 
-* ✅ **SQL**: `SELECT`, `JOIN`, `GROUP BY`, `CTEs`, `Window Functions`
-* ✅ **Streamlit or Dash**: Turn Python dashboards into web apps
-* ✅ **Git + GitHub**: Version control & project hosting
-* ✅ **Tableau** *(optional)*: If you want variety beyond Power BI
-* ✅ **Cloud Basics**: Learn how Azure or AWS handles data pipelines (S3, Lambda, SQL databases)
+| Project                              | Tools                           |
+|--------------------------------------|---------------------------------|
+| Sales Dashboard                      | Excel + Power BI                |
+| Netflix Dataset EDA                  | Python (Pandas, Seaborn)        |
+| Customer Churn Prediction            | Python (Scikit-learn, Seaborn)  |
+| Web-Scraped News Headlines           | Python (BeautifulSoup + Pandas) |
+| COVID-19 Time-Series Forecast        | Python (Prophet)                |
+| Dynamic BI Dashboard                 | Power BI                        |
+| Automated Excel Report               | Python + OpenPyXL/XlsxWriter    |
 
----
-
-## 🔁 Suggested Learning Flow:
-
-```
-Non-Tech: Excel → Power BI → Python  
-Tech: Python → Excel → Power BI
-```
-
-No matter where you start, by the time you’re done, you’ll have:
-
-* The skillset ✅
-* The portfolio ✅
-* The confidence ✅
-* The edge in job interviews ✅
+📦 Host all projects on **GitHub** with clean READMEs.
 
 ---
 
-## 💼 Want More?
+## 🎯 PHASE 5: Getting Job-Ready
 
-I can drop this into:
+### 📝 Resume & LinkedIn
+- List tools + projects with business impact
+- Clean design, metrics-driven bullets
+- LinkedIn headline + featured section
 
-* A ✅ Notion board with tasks
-* A 🗓️ Weekly study plan
-* A 📄 PDF version
-* A 🎯 Custom 10-week challenge
+### 📂 GitHub Portfolio
+- Jupyter Notebooks with visuals
+- Excel dashboards as downloads
+- Power BI links (PDF exports or screenshots)
 
-Just say the word.
+### 🔁 Practice
+- **SQL**: StrataScratch, LeetCode SQL
+- **Excel**: ExcelJet, Spreadsheeto
+- **Python**: HackerRank, DataCamp
+- **Mock Interviews**: Use Glassdoor Qs
+
+---
+
+## 🛠 BONUS PHASE: Power Skills (Optional but Recommended)
+
+- ✅ **Tableau**: For broader BI skills
+- ✅ **Git/GitHub**: Version control, collaboration
+- ✅ **Streamlit/Dash**: Turn Python into web dashboards
+- ✅ **Cloud (AWS/GCP/Azure)**: S3, Lambda, RDS basics
+- ✅ **APIs**: Connect apps, scrape data
+
+---
+
+## 🔁 Suggested Learning Flow
+
+For Non-Tech: Excel → Power BI → Python → SQL
+For Techies: Python → SQL → Excel → Power BI
