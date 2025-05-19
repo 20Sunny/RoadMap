@@ -35,10 +35,17 @@ Unlock your career in Data Science and AI with this **step-by-step roadmap**, ta
 
 ### 📌 Phase 1: Core Skills (Months 1–3)
 
-*🧩 Excel:* Formulas, PivotTables, Dashboards, Power Query, VBA
-*🐍 Python:* Pandas, NumPy, File I/O, Web Scraping, APIs, OOP
-*🧮 SQL:* SELECT, JOINs, CTEs, Window Functions, Indexing
-*📊 Power BI:* DAX, Modeling, RLS, Reports, Dashboards
+**🧩 Excel:**  
+Formulas, PivotTables, Dashboards, Power Query, VBA  
+
+**🐍 Python:**  
+Pandas, NumPy, File I/O, Web Scraping, APIs, OOP  
+
+**🧮 SQL:**  
+SELECT, JOINs, CTEs, Window Functions, Indexing  
+
+**📊 Power BI:**  
+DAX, Modeling, RLS, Reports, Dashboards  
 
 ### 📌 Phase 2: Analytics & Stats (Months 4–5)
 
