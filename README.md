@@ -157,6 +157,7 @@ DAX, Modeling, RLS, Reports, Dashboards
 
 ### 🧪 Practice Platforms
 
+* [Interviewing](https://interviewing.io/) — Tech Interview Prepration
 * [Kaggle](https://kaggle.com) — Competitions + Datasets
 * [LeetCode](https://leetcode.com) — SQL + DSA
 * [HackerRank](https://hackerrank.com) — Python + SQL
