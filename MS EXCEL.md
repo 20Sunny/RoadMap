@@ -4,6 +4,7 @@
 
 ### 🎥 Recommended Video Tutorial
 [![Microsoft Excel Tutorial](https://img.youtube.com/vi/Kjz_DDO4Fzs/0.jpg)](https://www.youtube.com/watch?v=Kjz_DDO4Fzs)
+[![Excel Advanced Tutorial](https://img.youtube.com/vi/wF8Vew_ydRQ/0.jpg)](https://www.youtube.com/watch?v=wF8Vew_ydRQ)
 ---
 ## 📅 Phase 1: Excel Basics (Beginner)
 
@@ -186,6 +187,29 @@
 ---
 
 ## 📝 Bonus: Practice & Interview Prep
+
+> **Boost your productivity with these essential shortcuts!**  
+Mastering shortcuts can save you hours of work and make you an Excel power user.
+
+📄 **Download the PDF Guide:**  
+[![Download Shortcuts PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://d13ot9o61jdzpp.cloudfront.net/files/239%20Excel%20Shortcuts%20for%20Windows%20-%20MyOnlineTrainingHub.pdf)
+
+🔗 **Key Highlights:**
+- Navigate Excel like a pro
+- Speed up data entry and formatting
+- Perform calculations faster
+- Work efficiently with large datasets
+
+🎯 **Pro Tip:**  
+Practice these shortcuts daily to build muscle memory and improve your workflow!
+### 📄 Essential Excel Shortcuts PDF
+
+[![Download 239 Excel Shortcuts for Windows](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://d13ot9o61jdzpp.cloudfront.net/files/239%20Excel%20Shortcuts%20for%20Windows%20-%20MyOnlineTrainingHub.pdf)  
+**[239 Excel Shortcuts for Windows – Download PDF](https://d13ot9o61jdzpp.cloudfront.net/files/239%20Excel%20Shortcuts%20for%20Windows%20-%20MyOnlineTrainingHub.pdf)**
+
+> Unlock productivity with this comprehensive list of shortcuts. Perfect for beginners and power users alike!
+
+---
 
 ### 🎯 Goals
 - Strengthen your skills and prepare for real-world scenarios
