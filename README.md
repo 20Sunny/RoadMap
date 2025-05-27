@@ -111,6 +111,8 @@
 | **Data Engineer**  | Python, SQL, Spark, Kafka, Hive, Airflow, Cloud Platforms  |
 
 ----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 # 🔰 Phase 1: Core Foundation - Learning Roadmap
 
@@ -145,7 +147,7 @@ This is your essential starter pack to build a rock-solid tech foundation. Wheth
 
 ---
 
-### 2. ☕ Core Java (For Full Stack / Backend Roles) - [JAVA RoadMap](./JAVA.md)
+### 2. ☕ Core Java (For Full Stack / Backend Roles) - [CORE JAVA RoadMap](./Core-JAVA.md)
 
 **Weeks 1-3: Basics**
 - Syntax, Variables, Data Types
@@ -333,7 +335,93 @@ This is your essential starter pack to build a rock-solid tech foundation. Wheth
 - CLI To-Do App (Python/Java/C)
 - GitHub Workflow Practice
 
-------
-------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+# 🔰 Phase 2: Full Stack Development
+
+This is the foundation for web development. Whether you're targeting Data Analytics, Full Stack Development, or DevOps, mastering these basics will set you up for success in any tech career.
+
+## 📚 Syllabus + Roadmap
+
+#### A. 📝 Java Full-Stack Dev - [Java RoadMap](./JAVA.md)
+
+## 📅 Months 1–2: Core Java & OOP
+
+- Java Syntax: Data types, operators, loops, methods
+- OOP Concepts: Inheritance, Polymorphism, Abstraction, Encapsulation
+- Collections: List, Set, Map, Queue
+- Exception Handling & Custom Exceptions
+- File Handling & Serialization
+- Multithreading & Synchronization
+- Java 8: Lambda, Stream API
+- Git Basics: Init, commit, push, pull, branches
+
+## 📅 Months 3–4: Front-End Development
+
+- HTML5, CSS3: Semantic tags, Flexbox, Grid
+- JavaScript (ES6+): DOM, events
+- TypeScript: Interfaces, types, classes
+- React or Angular: Components, routing, state
+- Responsive Design & Media Queries
+- Git Advanced: Merge, rebase, conflicts
+
+## 📅 Months 5–6: Java Back-End & API
+
+- Spring Boot: REST APIs, annotations
+- Spring MVC: Controllers, View resolvers
+- Spring Security: Auth & roles
+- Hibernate ORM: Entities, relationships
+- JPA + DB Integration: MySQL / PostgreSQL
+- Testing: JUnit, Mockito
+- Maven / Gradle Build Tools
+
+## 📅 Months 7–8: Database Skills
+
+- SQL: Joins, subqueries, triggers, functions
+- DB Design: Normalization (1NF to 3NF)
+- Indexing & Query Optimization
+- Transactions: ACID, isolation levels
+- NoSQL: MongoDB basics
+
+## 📅 Months 9–10: DevOps & Cloud
+
+- CI/CD: Jenkins, GitHub Actions
+- Docker: Containers, images, Dockerfile
+- Docker Compose: Multi-container setup
+- Kubernetes (Basics): Pods, services
+- AWS (Basics): EC2, S3
+- Monitoring: Logs, Prometheus, Grafana
+
+## 📅 Month 11: Soft Skills & Agile
+
+- Agile: Scrum, Kanban, standups
+- Tools: Jira, Trello, Slack
+- Code Reviews & Peer Feedback
+- Technical Docs & System Diagrams
+- Communication & Team Collaboration
+
+## 📅 Month 12: Final Projects + Portfolio
+
+- Capstone Projects:
+  - E-commerce App
+  - Blog Application
+  - Task Management System
+- Deployment: GitHub, Netlify/Heroku
+- Build Personal Portfolio Website
+
+---
+
+
+#### B. JavaScript Track (MERN Stack Dev)
+- TypeScript *(optional but recommended)*
+- React.js
+- Redux
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
 
 > Ready to build the skills? Stick to this roadmap, and you’ll crush it!
