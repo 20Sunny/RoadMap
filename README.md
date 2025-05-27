@@ -109,3 +109,140 @@
 | **DevOps**         | Docker, Kubernetes, Jenkins, AWS, Terraform, GitHub Actions|
 | **Data Analyst**   | Python, SQL, Power BI, Excel, Snowflake                    |
 | **Data Engineer**  | Python, SQL, Spark, Kafka, Hive, Airflow, Cloud Platforms  |
+
+----------------------------------------------------------------------------------------
+
+# 🔰 Phase 1: Core Foundation - Learning Roadmap
+
+This is your essential starter pack to build a rock-solid tech foundation. Whether you're aiming for Data Analytics, Full Stack Development, or DevOps — this phase sets the base for everything.
+
+---
+
+## 📚 Syllabus + Roadmap
+
+### 1. 🐍 Python (For Data Roles) - [Python RoadMap](./PYTHON.md)
+
+**Weeks 1-3: Basics & Core Concepts**
+- Variables, Data Types
+- Operators, Conditionals
+- Loops (for, while)
+- Functions & Scope
+- Lists, Tuples, Sets, Dictionaries
+
+**Weeks 4-5: Intermediate Python**
+- File Handling
+- Exception Handling
+- Modules and Packages
+- Comprehensions
+- Lambda, map(), filter(), reduce()
+- OOP in Python
+
+**Week 6: Extras**
+- Virtual Environments
+- Pythonic coding style (PEP 8)
+
+**Tools:** VS Code / Jupyter Notebook
+
+---
+
+### 2. ☕ Core Java (For Full Stack / Backend Roles) - [JAVA RoadMap](./JAVA.md)
+
+**Weeks 1-3: Basics**
+- Syntax, Variables, Data Types
+- Control Structures (if, for, while, switch)
+- Arrays and Strings
+- OOP (Classes, Objects, Inheritance, Polymorphism)
+
+**Weeks 4-5: Intermediate Java**
+- Exception Handling
+- File I/O
+- Collections Framework (List, Map, Set)
+- Interfaces & Abstract Classes
+
+**Week 6: Practical**
+- Mini Projects: Banking System / Library App
+
+**Tools:** IntelliJ IDEA / Eclipse
+
+---
+
+### 3. 💻 C Programming (Logic + System Foundations) - [C RoadMap](./C.md)
+
+**Weeks 1-2: Basics**
+- Syntax, Data Types, Operators
+- Conditionals & Loops
+- Functions
+
+**Week 3: Intermediate**
+- Pointers
+- Arrays, Strings
+- Structures and Unions
+
+**Week 4: Advanced**
+- Dynamic Memory Allocation
+- File Handling
+- Recursion
+- Bitwise Operators
+
+**Tools:** Turbo C / GCC / Code::Blocks
+
+---
+
+### 4. 🌐 Web Basics (HTML5, CSS3, JavaScript)
+
+#### 📄 HTML5 (Week 1)
+- Structure, Tags, Forms
+- Semantic Tags
+
+#### 🎨 CSS3 (Week 2)
+- Selectors, Fonts, Box Model
+- Flexbox, Grid, Media Queries
+
+#### 🧠 JavaScript (Weeks 3-4)
+- Variables, Functions, Events
+- DOM Manipulation, Arrays, Objects
+- Form Validation
+
+**Tools:** VS Code + Live Server
+
+---
+
+### 5. 🔧 Tools: Git, GitHub & IDEs
+
+#### 🔃 Git & GitHub (Week 5)
+- Git Init, Add, Commit
+- Branching, Merging
+- GitHub Repo Management
+
+#### 🧠 IDEs to Learn
+- **VS Code** – Web & Python
+- **IntelliJ IDEA** – Java
+- **Eclipse** – Java (Alt)
+- Install Extensions (Themes, Linters, GitLens)
+
+---
+
+## 🗓️ Weekly Timeline (8 Weeks Total)
+
+| Week | Topics Covered |
+|------|----------------|
+| 1    | Python Basics, HTML |
+| 2    | Python Intermediate, CSS |
+| 3    | Python OOP, Java Basics |
+| 4    | Java Intermediate, JavaScript Basics |
+| 5    | JavaScript DOM, Git & GitHub |
+| 6    | C Programming Basics |
+| 7    | C Pointers & Structures |
+| 8    | Revision + Mini Projects (Web + CLI) |
+
+---
+
+## 🧠 Mini Project Ideas
+
+- Personal Portfolio Website (HTML/CSS/JS)
+- CLI To-Do App (Python/Java/C)
+- GitHub Workflow Practice
+
+---
+
+> Ready to build the skills? Stick to this roadmap, and you’ll crush it!
