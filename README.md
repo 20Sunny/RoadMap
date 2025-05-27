@@ -190,20 +190,110 @@ This is your essential starter pack to build a rock-solid tech foundation. Wheth
 
 ### 4. 🌐 Web Basics (HTML5, CSS3, JavaScript)
 
-#### 📄 HTML5 (Week 1)
-- Structure, Tags, Forms
-- Semantic Tags
+## 🛠 Tools Needed
+- **Code Editor:** VS Code
+- **Live Preview:** Live Server Extension
+- **Browser:** Chrome / Firefox (for DevTools)
+- **Version Control:** Git + GitHub (optional but highly recommended)
 
-#### 🎨 CSS3 (Week 2)
-- Selectors, Fonts, Box Model
-- Flexbox, Grid, Media Queries
+## 📅 Week 1: HTML5 – Structure & Semantics
 
-#### 🧠 JavaScript (Weeks 3-4)
-- Variables, Functions, Events
-- DOM Manipulation, Arrays, Objects
-- Form Validation
+### 🔹 Topics
+- What is HTML, structure of an HTML document
+- Basic Tags: `<!DOCTYPE>`, `<html>`, `<head>`, `<title>`, `<body>`, `<h1>` to `<h6>`, `<p>`, `<a>`, `<img>`, `<br>`, `<hr>`
+- Lists: Ordered, Unordered, Description
+- Tables: `<table>`, `<tr>`, `<td>`, `<th>`, `colspan`, `rowspan`
+- Forms: `<form>`, `<input>`, `<textarea>`, `<select>`, `<button>`, `name`, `value`, `method`, `action`
+- Semantic Tags: `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, `<aside>`, `<main>`
 
-**Tools:** VS Code + Live Server
+### ✅ Mini Projects
+- Personal Bio Page
+- Simple Contact Form
+- Resume Web Page (Using only HTML)
+
+
+## 📅 Week 2: CSS3 – Styling & Layouts
+
+### 🔹 Topics
+- Inline, Internal, External CSS
+- Selectors: Universal, Element, ID, Class, Grouping
+- Text & Font Styling: `color`, `font-family`, `font-size`, `text-align`, `line-height`
+- Box Model: `margin`, `padding`, `border`, `content`
+- Display: `block`, `inline`, `inline-block`, `none`
+- Positioning: `static`, `relative`, `absolute`, `fixed`, `sticky`
+- Flexbox: Main axis, Cross axis, `justify-content`, `align-items`, `flex-direction`, `flex-wrap`
+- Grid: `grid-template-columns`, `grid-gap`, `grid-area`, `place-items`
+- Responsive Design: Media Queries, Units (`em`, `rem`, `%`, `vh`, `vw`)
+- Pseudo-classes & Pseudo-elements
+
+### ✅ Mini Projects
+- Styled Resume Page
+- Pricing Card Layout
+- Responsive Grid Gallery
+- Simple Landing Page
+
+
+## 📅 Week 3: JavaScript – Core Concepts
+
+### 🔹 Topics
+- Introduction to JavaScript: Inline, Internal, External JS
+- Variables: `var`, `let`, `const`
+- Data Types: Strings, Numbers, Booleans, Null, Undefined
+- Operators: Arithmetic, Comparison, Logical
+- Control Structures: `if`, `else`, `switch`, `for`, `while`
+- Functions: Declaration, Parameters, Return, Arrow Functions
+- Arrays & Objects
+- Events: `onclick`, `onchange`, `onmouseover`, `onkeydown`
+
+### ✅ Practice Ideas
+- Calculator Logic
+- Simple To-Do Logic (console only)
+- Basic Quiz App (without DOM yet)
+
+
+## 📅 Week 4: JavaScript – DOM & Advanced Features
+
+### 🔹 Topics
+- The DOM: `document.querySelector`, `getElementById`, `getElementsByClassName`
+- Changing Content: `innerHTML`, `textContent`, `value`
+- Changing Styles: `element.style`
+- Creating Elements: `createElement`, `appendChild`, `removeChild`
+- Event Listeners: `addEventListener`
+- Form Validation: `onsubmit`, `required`, `pattern`, Custom JS validation
+- Introduction to ES6+:
+  - Template literals
+  - Destructuring
+  - Spread/Rest operators
+  - `map()`, `filter()`, `reduce()`
+
+### ✅ Projects
+- Form Validation Page
+- DOM-based To-Do App
+- Interactive Quiz App
+- Light/Dark Mode Toggle
+
+## 🔁 Optional (Week 5-6): Advanced Projects + GitHub Deployment
+
+### 🔹 Projects
+- Portfolio Website
+- Responsive Blog Page
+- E-Commerce Product Page
+- Weather App (Using API, optional)
+- Deploy Projects using GitHub Pages
+
+## 📚 Learning Resources
+
+### YouTube Playlists (Free)
+- `CodeWithHarry` – Web Development Series
+- `Traversy Media` – HTML, CSS, JavaScript Crash Courses
+- `freeCodeCamp` – Full Web Dev Bootcamp (all-in-one)
+- `BroCode` – Straightforward, no-fluff frontend tutorials
+
+## 🧠 Pro Tips
+- Practice > Watching. Build while learning.
+- Use browser DevTools (F12) to test changes.
+- Recreate websites (Netflix login, YouTube clone, etc.)
+- Push every project to GitHub – treat it like your public resume.
 
 ---
 
@@ -243,6 +333,7 @@ This is your essential starter pack to build a rock-solid tech foundation. Wheth
 - CLI To-Do App (Python/Java/C)
 - GitHub Workflow Practice
 
----
+------
+------
 
 > Ready to build the skills? Stick to this roadmap, and you’ll crush it!
