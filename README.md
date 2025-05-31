@@ -5,87 +5,16 @@
 
 ## 🎯 Career Track Pathways
 
-| 🎓 **Career Goal**        | 🛤️ **Recommended Path**                                   |
-|--------------------------|-----------------------------------------------------------|
-| Data Analyst             | Phase 1 → Phase 3                                         |
-| Full Stack Developer     | Phase 1 → Phase 2 → Phase 4                               |
-| DevOps Engineer          | Phase 1 → Phase 4 → Phase 5                               |
-| Cloud Engineer           | Phase 1 → Phase 4                                         |
-| Data Engineer            | Phase 1 → Phase 3 → Phase 4                               |
-| MERN Stack Developer     | Phase 1 → JavaScript Track → MERN Stack → Phase 4         |
-| Java Full Stack Developer| Phase 1 → Java Track → Spring Ecosystem → Phase 4         |
-
----
-
-## 🧩 Step-by-Step Learning Hierarchy
-
-### 🔰 **Phase 1: Core Foundation (For Everyone)**
-
-**Programming Languages**
-- 🐍 Python *(for data roles)*
-- ☕ Core Java *(for full stack / backend)*
-- 💻 C Programming *(for logic & systems)*
-
-**Web Basics**
-- 🌐 HTML5, CSS3, JavaScript
-
-**Essential Tools**
-- 🛠️ Git & GitHub
-- 💡 IDEs: VS Code / IntelliJ / Eclipse
-
----
-
-### 💻 **Phase 2: Full Stack Development**
-
-#### **A. Java Track (Java Full Stack Dev)**
-- JDBC, JSP, Servlets
-- Hibernate
-- Spring Core → Spring Boot
-- REST API Development
-- Spring Security
-- Spring Cloud (Microservices)
-- Apache Tomcat
-- MySQL / PostgreSQL
-
-#### **B. JavaScript Track (MERN Stack Dev)**
-- TypeScript *(optional, recommended)*
-- React.js, Redux
-- Node.js, Express.js
-- MongoDB
-- REST APIs, JWT Authentication
-
----
-
-### 🗃️ **Phase 3: Data Analytics & Engineering**
-
-- SQL (MySQL, PostgreSQL)
-- Power BI
-- Snowflake, Hive
-- Apache Spark, Kafka
-- Databricks, Amazon Redshift
-
----
-
-### ☁️ **Phase 4: DevOps & Cloud Deployment**
-
-**Cloud Platforms**
-- AWS (EC2, S3, Lambda, RDS, etc.)
-- Microsoft Azure
-
-**DevOps Tools**
-- Docker, Kubernetes
-- Jenkins, GitHub Actions
-- Terraform, Ansible, Chef, OpenShift
-
----
-
-### 🧱 **Phase 5: System Design & Architecture (Advanced)**
-
-- Microservices Architecture
-- API Gateway, Load Balancing
-- Service Mesh (Istio)
-- CI/CD Pipelines (end-to-end)
-- Monitoring & Logging (ELK Stack, Prometheus, Grafana)
+| **Career Goal**            | **Recommended Path**                                                                |
+|----------------------------|-------------------------------------------------------------------------------------|
+| Data Analyst               | Phase 1 → Phase 3                                                                   |
+| Data Engineer              | Phase 1 → Phase 3 → Phase 4                                                         |
+| Full Stack Developer       | Phase 1 → Phase 2 → Phase 4                                                         |
+| Java Full Stack Developer  | Phase 1 → Phase 2 (Java Track) → Phase 4                                            |
+| MERN Stack Developer       | Phase 1 → Phase 2 (MERAN Track) → Phase 4                                           |
+| Laravel (PHP) Developer    | Phase 1 → Phase 2 (Laravel Track) → Phase 4                                         |
+| DevOps Engineer            | Phase 1 → Phase 4 → Phase 5                                                         |
+| Cloud Engineer             | Phase 1 → Phase 4                                                                   |
 
 ---
 
@@ -107,7 +36,7 @@ Build a solid tech base for Data Analytics, Full Stack, or DevOps. This phase is
 
 ---
 
-## 📚 **Syllabus & Roadmap**
+## 🧩 **Step-by-Step Learning Hierarchy With Syllabus & Roadmap**
 
 ### 1. 🐍 **Python (For Data Roles)** – [Python RoadMap](./PYTHON.md)
 
@@ -209,7 +138,7 @@ Master web development foundations for Data Analytics, Full Stack, or DevOps.
 
 ### 📚 **Syllabus & Roadmap**
 
-## **A. Java Full-Stack Dev** – [Java RoadMap](./JAVA.md)
+## **A. Java Full-Stack Dev** – [Java RoadMap](./Core-JAVA.md)
 
 #### 📅 **Months 1–2: Core Java & OOP**
 - Java Syntax, OOP, Collections, Exceptions, File Handling, Multithreading, Java 8, Git Basics
@@ -233,32 +162,21 @@ Master web development foundations for Data Analytics, Full Stack, or DevOps.
 - Capstone Projects, Deployment, Portfolio Website
 
 
-## **B. Full-Stack Web Development (MERN)** – [MERN RoadMap](./MERN.md)
+## **B. Full-Stack Web Development (MERAN)** – [MERAN RoadMap](./MERAN.md)
 
 - **Phase 1:** JavaScript Core (ES6+, DOM, Async)
 - **Phase 2:** React.js (Components, Hooks, Router)
-- **Phase 3:** Redux (Store, Toolkit)
-- **Phase 4:** TypeScript (Optional)
-- **Phase 5:** Node.js + Express.js (APIs, Middleware)
-- **Phase 6:** MongoDB (CRUD, Mongoose)
-- **Phase 7:** JWT Authentication
-- **Phase 8:** REST API Integration (Axios, Redux)
-- **Phase 9:** Deployment (Atlas, Render, Netlify, CI/CD)
+- **Phase 3:** Angular (CLI, Components, Data Binding, Routing)
+- **Phase 4:** Redux (Store, Toolkit) [For React State Management]
+- **Phase 5:** TypeScript (Used in Angular)
+- **Phase 6:** Node.js + Express.js (APIs, Middleware)
+- **Phase 7:** MongoDB (CRUD, Mongoose, Aggregation)
+- **Phase 8:** JWT Authentication (Both Angular & React Auth Flows)
+- **Phase 9:** REST API Integration (Axios/HttpClient, State Management)
+- **Phase 10:** Deployment (MongoDB Atlas, Render, Vercel, Netlify, CI/CD)
 
 
-## **C. Full-Stack Web Development (MEAN)** – [MEAN RoadMap](./MEAN.md)
-
-- **Phase 1:** JavaScript Core (ES6+, DOM, Async)
-- **Phase 2:** React.js (Components, Hooks, Router)
-- **Phase 3:** Redux (Store, Toolkit)
-- **Phase 4:** TypeScript (Optional)
-- **Phase 5:** Node.js + Express.js (APIs, Middleware)
-- **Phase 6:** MongoDB (CRUD, Mongoose)
-- **Phase 7:** JWT Authentication
-- **Phase 8:** REST API Integration (Axios, Redux)
-- **Phase 9:** Deployment (Atlas, Render, Netlify, CI/CD)
-
-## **D. LARAVEL (PHP) RoadMap** – [LARAVEL RoadMap](./LARAVEL-PHP.md)
+## **C. LARAVEL (PHP) RoadMap** – [LARAVEL RoadMap](./LARAVEL-PHP.md)
 
 - **Phase 0:** Prerequisites (HTML, CSS, PHP, SQL, Git)
 - **Phase 1:** Laravel Setup (Composer, Artisan, .env)
@@ -267,6 +185,269 @@ Master web development foundations for Data Analytics, Full Stack, or DevOps.
 - **Phase 4:** Auth & Middleware (Breeze, Middleware)
 - **Phase 5:** Advanced Laravel (API, Jobs, Events, Deployment)
 - **Phase 6:** Final Project (Full-stack App)
+
+---
+
+# 🔰 Phase 3: Data Analytics & Engineering (Advance)
+
+## [DATA ANALYST RoadMap](./DATA%20ANALYST.md)
+Master the tools that deal with massive-scale data and make your analytics career future-proof.
+
+### 🔢 SQL (MySQL, PostgreSQL)
+
+- `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`
+- Joins: INNER, LEFT, RIGHT, FULL
+- Aggregations & `CASE`, `COALESCE`
+- Subqueries & Common Table Expressions (CTEs)
+- Window Functions: `ROW_NUMBER()`, `RANK()`, `LEAD()`
+- Views, Indexing, and Performance Optimization
+
+### 📊 Power BI
+
+- Power Query for data cleaning and ETL
+- Data Modeling & Relationships
+- DAX Basics: `CALCULATE`, `FILTER`, `SUMX`
+- Time Intelligence: `DATESYTD`, `SAMEPERIODLASTYEAR`
+- Creating Dashboards, Filters, and Slicers
+- Row-Level Security (RLS)
+- Publishing to Power BI Service & Auto Refresh
+
+### 🧊 Snowflake
+
+- Virtual Warehouses, Databases, Schemas
+- SQL Queries in Snowflake
+- Time Travel & Zero-Copy Cloning
+- Data Sharing, Warehousing Best Practices
+- Performance & Cost Optimization Techniques
+
+### 🐝 Apache Hive
+
+- Hive Architecture: Metastore, Driver, Compiler
+- HiveQL: SQL-like query language
+- Data Partitions & Bucketing
+- Using Joins, Built-in & Custom UDFs
+- Working with Big Data in Hadoop Ecosystem
+
+### ⚡ Apache Spark (PySpark)
+
+- Core Concepts: RDDs, DataFrames
+- Transformations vs Actions
+- Spark SQL for Querying Big Data
+- Machine Learning with Spark MLlib
+- Real-Time Data Processing using Spark Streaming
+
+### 📡 Apache Kafka
+
+- Kafka Architecture: Topics, Brokers, Producers, Consumers
+- Partitioning, Replication & Offsets
+- Building Real-Time Data Pipelines
+- Kafka Connect & Kafka Streams APIs
+
+### 📒 Databricks
+
+- Using Notebooks and Clusters
+- Delta Lake for Storage & Version Control
+- Unified Analytics: SQL + Python + Spark
+- MLflow for Model Tracking and Experimentation
+- Streamlined Data Engineering on the Cloud
+
+### 🟥 Amazon Redshift
+
+- Columnar Storage and Data Warehousing Concepts
+- Writing & Tuning SQL Queries
+- Redshift Spectrum for Querying External Data
+- Federated Queries and Integration with BI Tools
+- Performance Tuning and Cost Optimization
+
+---
+
+# 🔰 Phase 4: DevOps & Cloud Deployment
+
+### 📚 **Syllabus & Roadmap For Cloud Platforms**
+
+## **A. AWS RoadMap** – [AWS RoadMap](./AWS.md)
+
+> 📌 What You'll Learn
+- **Virtualization & Cloud Computing**
+    - Definition of virtualization, hypervisors, and practical use cases
+    - Cloud models: IaaS, PaaS, SaaS
+    - Benefits: scalability, flexibility, cost-efficiency
+- **AWS Overview**
+    - What is AWS?
+    - Global infrastructure and service categories
+
+### 🔐 Identity & Access
+- **AWS IAM || AWS CLI**
+  - Users, groups, roles, policies || Installing and configuring CLI for automation
+
+### ⚙️ Compute & Storage
+- **EC2 (Elastic Compute Cloud)**
+  - Launching instances, key pairs, security groups
+- **EBS (Elastic Block Store)**
+  - Attaching volumes, creating snapshots
+- **AMI (Amazon Machine Image)**
+  - Creating reusable machine images
+- **S3 (Simple Storage Service)**
+  - Buckets, object storage, lifecycle policies
+  - Static website hosting and versioning
+
+### ⚖️ Auto Scaling & Load Balancing
+- **ELB (Elastic Load Balancer)**
+  - Distribute traffic across instances
+- **ASG (Auto Scaling Groups)**
+  - Scale up/down based on demand
+
+### 🧮 Databases & Serverless
+- **RDS (Relational Database Service)**
+  - MySQL, PostgreSQL, backups, scaling
+- **DynamoDB**
+  - NoSQL tables, indexing, high-speed access
+- **AWS Lambda**
+  - Serverless function triggers & automation
+
+### 🧱 Infrastructure as Code
+- **CloudFormation**
+  - Writing templates to automate AWS setup
+  - Managing stack deployments
+- **Terraform (Bonus)**
+  - Open-source IAC alternative
+
+### 🌐 Networking & CDN
+- **VPC (Virtual Private Cloud)**
+  - Subnets, routing tables, Internet Gateways
+- **Route 53**
+  - Domain registration and DNS routing
+- **CloudFront**
+  - CDN for global content caching and delivery
+
+### 💰 Billing & Deployment
+- **AWS Billing & Organization**
+  - Budget tracking and consolidated accounts
+- **Amplify (Full Stack Demo)**
+  - Deploy frontend/backend apps
+  - CI/CD for full-stack workflows
+
+### 🐳 Containers & Orchestration
+- **ECS (Elastic Container Service)**
+  - Docker container management
+- **EKS (Elastic Kubernetes Service)**
+  - Managed Kubernetes cluster setup
+
+### 🔐 Security & Final Topics
+- **SSL/TLS Certificates**
+  - HTTPS setup and encryption handling
+- **DNS Practical Session**
+  - Understand DNS with real-world scenarios
+
+
+## **B. Microsoft Azure RoadMap** – [Microsoft Azure RoadMap](./Azure.md)
+
+**🚀 Microsoft Azure Certification Path – 2025**
+
+### 🟦 Fundamentals
+
+- `AZ-900`: Microsoft Azure Fundamentals  
+- `AI-900`: Microsoft AI Fundamentals  
+- `DP-900`: Microsoft Azure Data Fundamentals  
+
+### 🟪 Associate
+
+- `AZ-104`: Microsoft Azure Administrator Associate  
+- `AZ-204`: Microsoft Azure Developer Associate  
+- `DP-100`: Microsoft Azure Data Scientist Associate  
+- `AI-102`: Microsoft Certified: Azure AI Engineer Associate  
+- `DP-203`: Microsoft Azure Data Engineer Associate  
+- `DP-300`: Microsoft Azure Database Administrator Associate  
+- `PL-300`: Microsoft Data Analyst Associate  
+- `AZ-500`: Microsoft Azure Security Engineer Associate  
+
+### 🟥 Expert
+
+- `AZ-305`: Microsoft Azure Solutions Architect Expert  
+- `AZ-400`: Microsoft DevOps Engineer Expert  
+
+
+
+## 🛣️ DevOps Roadmap 2025 - [DevOps RoadMap](./DevOps_Roadmap.md)
+
+### 📚 **Syllabus & Roadmap For DevOps**
+
+## 1. 🧠 Master the Fundamentals (Weeks 1–2)
+- **Programming Language**: Start with Python or Go.
+- **Operating Systems**: Learn OS concepts (focus on Linux).
+- **Networking Basics**: Understand HTTP, HTTPS, TCP/IP, DNS, SSH.
+
+## 2. 🔧 Version Control Systems (Weeks 3–4)
+- **Git**: Learn Git commands, branching, merging, rebasing.
+- **Platforms**: GitHub, GitLab, Bitbucket.
+
+## 3. ☁️ Cloud Platforms (Weeks 5–7)
+- **AWS**: IAM, EC2, S3, CloudWatch.
+- **Azure**: Azure DevOps, VMs, Blob Storage.
+- **GCP**: Compute Engine, Cloud Storage, Stackdriver.
+
+## 4. 📦 Containerization (Weeks 8–9)
+- **Docker**: Dockerfiles, managing images, running containers.
+- **Docker Compose**: Multi-container applications.
+
+## 5. ⚙️ Orchestration & IaC (Weeks 10–12)
+- **Kubernetes**: Pods, Deployments, Services, ConfigMaps.
+- **Terraform**: Infrastructure as code.
+- **Ansible**: Configuration management and automation.
+
+## 6. 🔄 CI/CD Pipelines (Weeks 13–14)
+- **Tools**: GitHub Actions, GitLab CI/CD, Jenkins.
+- **Practices**: Automated testing, integration, and deployment.
+
+## 7. 📊 Monitoring & Logging (Weeks 15–16)
+- **Monitoring**: Prometheus.
+- **Visualization**: Grafana.
+- **Logging**: ELK Stack (Elasticsearch, Logstash, Kibana).
+
+## 8. 🔐 Security & Compliance (Weeks 17–18)
+- **DevSecOps**: Integrate security into pipelines.
+- **Tools**: SonarQube (code analysis), Vault (secrets management).
+
+## 9. 🤖 Advanced Topics (Weeks 19–20)
+- **MLOps**: Machine learning workflows in DevOps.
+- **SRE (Site Reliability Engineering)**: Scalability, reliability, incident management.
+
+---
+
+# 🔰 Phase 5: System Design & Architecture (Advanced)
+
+### 📚 **Syllabus & Roadmap For System Design RoadMap – [System Design RoadMap](./System_Design.md)**
+
+# 🔑 Essential System Design Topics
+
+## 1. 🧱 Basics (Start Here)
+- What is System Design?
+- HLD vs LLD
+- Functional vs Non-functional Requirements
+
+## 2. ⚙️ Core Concepts
+- Load Balancer, CDN, API Gateway
+- Caching (Redis), Queues (Kafka)
+- SQL vs NoSQL, Sharding, CAP Theorem
+
+## 3. 📈 Scalability & Performance
+- Horizontal vs Vertical Scaling
+- Rate Limiting, Auto-scaling
+- Metrics: TPS, SLA, RPS
+
+## 4. 🧠 LLD & Design Patterns
+- SOLID Principles
+- Factory, Singleton, Strategy Patterns
+- Authentication & Authorization (JWT, OAuth)
+
+## 5. 🔐 Security & Monitoring
+- HTTPS, JWT, OAuth
+- Monitoring (Prometheus, Grafana)
+- Logging (ELK Stack)
+
+## 6. 🧪 Real-World Design Questions
+- Design: YouTube, Instagram, WhatsApp, Netflix
+- Design: URL Shortener, Notification System, Rate Limiter
 
 ---
 
