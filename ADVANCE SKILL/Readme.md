@@ -75,6 +75,7 @@ This document offers a comprehensive overview of prompt engineering, its signifi
 
 <div style="overflow-x: auto; max-width: 100%;max-height: 100vh; padding: 8px; border: 1px solid #ddd; border-radius: 6px; background: #fafbfc;">
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+
 <img src="./Prompt%20Engineering_page-0001.jpg" alt="Page 1" style="height:100%; width:100%; margin:4px;">
 <img src="./Prompt%20Engineering_page-0002.jpg" alt="Page 2" style="height:100%; width:100%; margin:4px;">
 <img src="./Prompt%20Engineering_page-0003.jpg" alt="Page 3" style="height:100%; width:100%; margin:4px;">
