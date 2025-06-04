@@ -372,6 +372,7 @@ graph LR
 - 🎯 GPT-3 Playground - Testing environment
 - 📊 Weights & Biases - Performance tracking
 - 🤖 Hugging Face - Model deployment
+- 🧞‍♂️ [GenieAI.co](https://genieai.co) — a strong example of generative prompt tools. It helps clarify your requirements and guides you in crafting effective prompts for AI.
 
 </details>
 
