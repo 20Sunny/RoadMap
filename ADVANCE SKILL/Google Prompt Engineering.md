@@ -393,6 +393,12 @@ graph LR
 
 ---
 
+<div align="center">
+<img src="https://miro.medium.com/v2/0*sf3ZQAhjy3Xz5N77" alt="Prompt Engineering Illustration" style="max-width:70vw; width:100%; border-radius:10px; box-shadow:0 4px 16px #d1e3f8; margin:20px 0;">
+</div>
+
+---
+
 ## 🎯 **Conclusion**
 
 <div align="center" style="background:#e3f2fd; border-radius:8px; padding:16px; margin:16px 0; color:#1565c0; font-size:1.1em;">
