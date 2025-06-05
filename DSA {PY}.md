@@ -181,6 +181,17 @@ This video provides a comprehensive overview of the DSA roadmap, helping you und
 
 ---
 
+## 💸 Salary Slab and Topics
+
+| Salary Range (LPA)   | Topics Covered                                                                 |
+|----------------------|--------------------------------------------------------------------------------|
+| 7.5 to 10            | Arrays, Strings, LinkedList, Stacks, Queues, Hashing, Sorting, Searching, Recursion |
+| 10 to 25             | Dynamic Programming, Trees, Graphs, Heaps, Greedy, Backtracking, Tries, Segment Trees |
+| 25 to 50             | Advanced DP, Graph Algorithms, Balanced Trees, Greedy Advanced, String Matching, Bit Manipulation, Geometry |
+| 50 and Above         | Flow Algorithms, Parallel Algorithms, Splay Trees, Distributed Systems, ML Algorithms |
+
+---
+
 ## 🔧 Platforms to Practice
 - [Leetcode](https://leetcode.com/)
 - [Edabit](https://edabit.com/)
