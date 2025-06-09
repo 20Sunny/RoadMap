@@ -84,7 +84,7 @@ Build a solid tech base for Data Analytics, Full Stack, or DevOps. This phase is
 
 ---
 
-### 4. 🌐 **Web Basics (HTML5, CSS3, JavaScript)**
+### 4. 🌐 **Web Basics (HTML5, CSS3, JavaScript)** - [Web Dev. RoadMao](./3%20YEAR%20GRADUATION/Second%20Semester/Web%20Development.md)
 
 #### 🛠 **Tools Needed**
 - Code Editor: VS Code
