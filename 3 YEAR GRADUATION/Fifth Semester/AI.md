@@ -5,11 +5,9 @@ This roadmap provides a structured learning path for mastering **Artificial Inte
 ---
 ## 🎥 **Recommended YouTube Videos**
 
-<div align="center">
 | [![AI Roadmap for Beginners](https://img.youtube.com/vi/MqffbpjhriQ/0.jpg)](https://www.youtube.com/watch?v=MqffbpjhriQ) | [![How to Learn AI (Step by Step)](https://img.youtube.com/vi/yiXAmkimZRQ/0.jpg)](https://www.youtube.com/watch?v=yiXAmkimZRQ) |
 |:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-| **[AI Roadmap for Beginners](https://www.youtube.com/watch?v=MqffbpjhriQ)**                                              | **[How to Learn AI (Step by Step)](https://www.youtube.com/watch?v=yiXAmkimZRQ)**                                             |
-</div>
+| **[AI Roadmap for Beginners](https://www.youtube.com/watch?v=MqffbpjhriQ)** | **[How to Learn AI (Step by Step)](https://www.youtube.com/watch?v=yiXAmkimZRQ)** |
 
 ---
 
