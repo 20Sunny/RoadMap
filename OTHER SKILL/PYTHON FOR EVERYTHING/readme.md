@@ -239,5 +239,3 @@ A complete, no-fluff roadmap to learn Python with real-world tools and libraries
 * Prefer docs over random blogs.
 * Bookmark official docs + GitHub repos.
 * Use Notion or Obsidian to log your journey.
-
-Let me know if you want it formatted for Notion or exported as `.md` or `.pdf`!
