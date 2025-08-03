@@ -6,8 +6,7 @@ A complete, no-fluff roadmap to learn Python with real-world tools and libraries
 
 | Python + Library       | Use Case(s)                                  |
 |------------------------|----------------------------------------------|
-| Python + Django        | Web Development                              |
-| Python + Flask         | Web Development, Web Applications            |
+| Python + Flask + Django          | Web Development, Web Applications            |
 | Python + Matplotlib    | Data Visualization                           |
 | Python + Pygame        | Game Development                             |
 | Python + PyQt          | Desktop Applications                         |
